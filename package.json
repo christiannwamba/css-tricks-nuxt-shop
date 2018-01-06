@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-shop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "normalize.css": "^7.0.0",
+    "nuxt": "^1.0.0-rc11"
+  }
+}
